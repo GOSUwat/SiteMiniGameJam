@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "M9JOzDELkp/urXqxrBFir/QHOLnJ9hZyRwcf1p/H70o=",
+  "Hash": "d26Ad6JIUEGe4R8XmQ6wI3v5AgkQsmIllOBQMgx6T84=",
   "Source": "test",
   "BasePath": "_content/test",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "test\\wwwroot",
       "Source": "test",
-      "ContentRoot": "C:\\Users\\asus6\\source\\repos\\test\\test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asus6\\Desktop\\GameJamStuff\\SiteMiniGameJam\\test\\test\\wwwroot\\",
       "BasePath": "_content/test",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\asus6\\source\\repos\\test\\test\\wwwroot\\Content\\Background.gif",
+      "Identity": "C:\\Users\\asus6\\Desktop\\GameJamStuff\\SiteMiniGameJam\\test\\test\\wwwroot\\Content\\Background.gif",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus6\\source\\repos\\test\\test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asus6\\Desktop\\GameJamStuff\\SiteMiniGameJam\\test\\test\\wwwroot\\",
       "BasePath": "_content/test",
       "RelativePath": "Content/Background.gif",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Background.gif"
     },
     {
-      "Identity": "C:\\Users\\asus6\\source\\repos\\test\\test\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\asus6\\Desktop\\GameJamStuff\\SiteMiniGameJam\\test\\test\\wwwroot\\css\\style.css",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus6\\source\\repos\\test\\test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asus6\\Desktop\\GameJamStuff\\SiteMiniGameJam\\test\\test\\wwwroot\\",
       "BasePath": "_content/test",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\asus6\\source\\repos\\test\\test\\wwwroot\\Scripts\\rotate.js",
+      "Identity": "C:\\Users\\asus6\\Desktop\\GameJamStuff\\SiteMiniGameJam\\test\\test\\wwwroot\\Scripts\\rotate.js",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus6\\source\\repos\\test\\test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asus6\\Desktop\\GameJamStuff\\SiteMiniGameJam\\test\\test\\wwwroot\\",
       "BasePath": "_content/test",
       "RelativePath": "Scripts/rotate.js",
       "AssetKind": "All",

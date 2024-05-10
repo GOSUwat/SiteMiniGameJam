@@ -1,15 +1,15 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\asus6\\source\\repos\\test\\test\\wwwroot\\Content\\Background.gif",
+      "Id": "C:\\Users\\asus6\\Desktop\\GameJamStuff\\SiteMiniGameJam\\test\\test\\wwwroot\\Content\\Background.gif",
       "PackagePath": "staticwebassets\\Content\\Background.gif"
     },
     {
-      "Id": "C:\\Users\\asus6\\source\\repos\\test\\test\\wwwroot\\Scripts\\rotate.js",
+      "Id": "C:\\Users\\asus6\\Desktop\\GameJamStuff\\SiteMiniGameJam\\test\\test\\wwwroot\\Scripts\\rotate.js",
       "PackagePath": "staticwebassets\\Scripts\\rotate.js"
     },
     {
-      "Id": "C:\\Users\\asus6\\source\\repos\\test\\test\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\asus6\\Desktop\\GameJamStuff\\SiteMiniGameJam\\test\\test\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
